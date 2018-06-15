@@ -163,7 +163,6 @@
     </ClCompile>
     <ClCompile Include="test2server.cpp" />
     <ClCompile Include="testlibeventserver.cpp" />
-    <ClCompile Include="testpro2.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

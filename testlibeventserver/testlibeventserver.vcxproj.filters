@@ -29,9 +29,6 @@
     <ClCompile Include="testlibeventserver.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="testpro2.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
     <ClCompile Include="test2server.cpp">
       <Filter>源文件</Filter>
     </ClCompile>

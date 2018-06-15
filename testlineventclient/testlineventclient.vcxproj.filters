@@ -29,10 +29,7 @@
     <ClCompile Include="testlineventclient.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="testpro2.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="test2.cpp">
+    <ClCompile Include="test2client.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
